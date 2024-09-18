@@ -1,4 +1,4 @@
-# JARVIS Developer Assistant
+# DevGru Developer Assistant
 
 DevGru Developer Assistant is a Python-based application that serves as a personal assistant for developers. It integrates Google's Gemini AI for intelligent responses and code generation, along with a user-friendly GUI built using PyQt5.
 
